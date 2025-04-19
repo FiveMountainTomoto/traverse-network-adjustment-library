@@ -1,0 +1,17 @@
+A   ANG   A'   A   D   1.5135689199
+D   ANG   A   D   E   3.1831072491
+E   ANG   D   E   G   3.2986577419
+G   ANG   E   G   F   2.0139984497
+B   ANG   B'   B   F   3.0815872643
+F   ANG   B   F   G   2.1493972145
+G   ANG   H   G   F   2.294458316
+C   ANG   C'   C   H   2.8915693901
+H   ANG   C   H   G   2.897236862
+G   ANG   H   G   E   1.9747285415
+A   LENGTH   A   D   221.650
+D   LENGTH   D   E   195.843
+E   LENGTH   E   G   229.356
+B   LENGTH   B   F   189.781
+F   LENGTH   F   G   98.163
+C   LENGTH   C   H   151.480
+H   LENGTH   H   G   187.751
